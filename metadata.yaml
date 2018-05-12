@@ -1,0 +1,39 @@
+_repo: Lettres---Sixtine_17590
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gourmont, Remy de
+    aliases:
+    - Le Danois, N.
+    - Drexelius, J.
+    - L'Ymagier
+    - Gourmont, Remi de
+    - De Gourmont, Remy
+    - Gourmont, Rémy de
+    - Coffe, M.
+    - Gourmont, Remye
+    birthdate: 1858
+    deathdate: 1915
+    gutenberg_agent_id: '6996'
+    url: http://www.gutenberg.org/2009/agents/6996
+    wikipedia:
+    - http://en.wikipedia.org/wiki/R%C3%A9my_de_Gourmont
+    - http://fr.wikipedia.org/wiki/Remy_de_Gourmont
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2006-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17590'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature'
+- !lcc 'PQ'
+title: Lettres à Sixtine
+url: http://www.gutenberg.org/ebooks/17590
